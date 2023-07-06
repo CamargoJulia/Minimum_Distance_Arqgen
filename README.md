@@ -1,5 +1,5 @@
 <h1> 
-  MinimumDIstance_Arqgen
+  MinimumDistance_Arqgen
 </h1>
 
 <h2>
